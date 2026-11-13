@@ -1,0 +1,47 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Execution et livraison ###
+logs/
+dist/
+__pycache__/
+*.pyc
+*.log
+
+# Excluded documentation and diagram sources
+[Rr][Ee][Aa][Dd][Mm][Ee]*
+*.[Mm][Dd]
+*.[Pp][Uu][Mm][Ll]
+*.[Pp][Ll][Aa][Nn][Tt][Uu][Mm][Ll]
+*.[Ss][Vv][Gg]
