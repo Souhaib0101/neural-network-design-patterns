@@ -1,0 +1,4 @@
+<configuration>
+    <logger name="net.montaki.neuralnetworkdesignpatterns.aspects.LoggingAspect" level="OFF"/>
+    <root level="OFF"/>
+</configuration>
